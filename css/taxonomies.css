@@ -1,0 +1,12 @@
+.taxonomy-edit-link {
+  color: #178ee9;
+  cursor: pointer;
+  font-size: 12px;
+}
+.taxonomy-edit-link:hover {
+  color: #0076d0;
+}
+#taxonomy-editor .replicator-set-toggle,
+#taxonomy-editor .replicator-set-options {
+  display: none;
+}

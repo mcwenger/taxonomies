@@ -1,0 +1,14 @@
+translations:
+  taxonomies: Taxonomies
+  nav_title_taxonomies: Taxonomies
+  nav_icon_taxonomies: list
+  success_taxonomies: Taxonomies updated succesfully
+  edit_taxonomies: Edit Taxonomies
+  no_taxonomies_taxonomies: Please supply a valid taxonomy group.
+  taxonomy_group_display_taxonomies: Taxonomy Group
+  taxonomy_group_slug_display_taxonomies: Taxonomy Group Slug
+  taxonomy_group_slug_instructions_taxonomies: "Single word, no spaces. Underscores and dashes allowed. This is what will be used in the fieldset configurations."
+  taxonomies_display_taxonomies: Taxonomies
+  taxonomy_name_display_taxonomies: Taxonomy Name
+  taxonomy_slug_display_taxonomies: Taxonomy Slug
+  taxonomy_slug_instructions_taxonomies: "Single word, no spaces. Underscores and dashes allowed."

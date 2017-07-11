@@ -1,0 +1,30 @@
+---
+taxonomy_groups:
+  -
+    taxonomy_group_slug: genres
+    taxonomies:
+      -
+        taxonomy_name: Symphonic Masters
+        taxonomy_slug: symphonic
+      -
+        taxonomy_name: Chamber Orchestras
+        taxonomy_slug: chamber
+      -
+        taxonomy_name: Recitals
+        taxonomy_slug: recitals
+      -
+        taxonomy_name: Opera and Vocal Music
+        taxonomy_slug: vocal
+      -
+        taxonomy_name: String Quartets
+        taxonomy_slug: string
+      -
+        taxonomy_name: Sunday Morning Coffee Concerts
+        taxonomy_slug: sundays
+      -
+        taxonomy_name: Film
+        taxonomy_slug: film
+      -
+        taxonomy_name: Free Performances
+        taxonomy_slug: free
+    type: taxonomy_group
