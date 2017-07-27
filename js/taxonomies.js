@@ -23,8 +23,8 @@ var TaxonomiesEditor = function()
   //-----------------------------------
   // Private methods
   //-----------------------------------
-	_bind = function(obj)
-	{
+  _bind = function(obj)
+  {
     if (!obj) obj = $(editor);
 
     $(nameField, obj).each(function(){
@@ -67,8 +67,8 @@ var TaxonomiesEditor = function()
   }
 
   // destroy
-	_destroy = function(obj)
-	{
+  _destroy = function(obj)
+  {
     $(obj).off(_event, groupSlugField + ', ' + slugField);
     $(obj).off(_event, nameField);
     $(nameField, obj).each(function(){
